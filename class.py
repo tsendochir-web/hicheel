@@ -279,22 +279,4 @@
 
 
 
-# 1
-
-# class Phone:
-#     def __init__(self, brand, battery):
-#         self.brand = brand    
-#         self.battery = battery
-#     def use_phone(self):
-#         self.battery -= 10
-#     def charge(self):
-#         self.battery += 20
-#     def show_battery(self):
-#         print(f"Цэнэг: {self.battery}%")
-# brand = input("Утасны нэр: ")
-# battery = int(input("Цэнэгийн хувь: "))
-# phone1 = Phone(brand, battery)
-# phone1.use_phone()
-# phone1.show_battery()
-# phone1.charge()
-# phone1.show_battery()
+#
